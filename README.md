@@ -1,0 +1,1 @@
+This project is a repository about recipes. I have learned that I need to figure out my git commands better. 
